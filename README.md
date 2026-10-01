@@ -8,7 +8,7 @@ Beyond the classroom, I am deeply passionate about bridging the gap between raw 
 
 Whether it is building predictive machine learning models, deploying interactive dashboards, or conducting rigorous statistical backtesting, my ultimate goal is to translate data into actionable insights. I love designing strategic, data-driven solutions that optimize business decision-making and solve real-world problems. 
 
-I am continuously expanding my technical toolkit across Python, SQL, Power BI, and modern development frameworks to build end-to-end analytical pipelines. I am actively seeking internship opportunities where I can contribute my analytical skills and drive impactful results.
+I am continuously expanding my technical toolkit across Python, R, SQL, Power BI, Microsoft Excel, and modern development frameworks to build end-to-end analytical pipelines. I am actively seeking internship opportunities where I can contribute my analytical skills and drive impactful results.
 
 ---
 
@@ -36,7 +36,7 @@ Professional certifications and continued learning highlighting data expertise, 
 
 ## Technology stack
 
-Python, SQL, pandas, NumPy, scikit-learn, Streamlit, statistical modelling, data visualisation, and Jupyter notebooks.
+Python, R, SQL, Microsoft Excel, pandas, NumPy, scikit-learn, Streamlit, statistical modelling, data visualisation, and Jupyter notebooks.
 
 ## Run locally
 
