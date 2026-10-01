@@ -2,11 +2,13 @@
 
 ![Portfolio Badge](https://img.shields.io/badge/Portfolio-jefflaw0618--jpg-blue?logo=github) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-I am currently pursuing a **Bachelor of Science in Statistics** at the **University of Malaya** (Expected Graduation: July 2028 | CGPA: 3.8). 
+I am an analytical thinker, problem solver, and aspiring data professional currently pursuing a **Bachelor of Science in Statistics** at the **University of Malaya** (Expected Graduation: July 2028 | Current CGPA: 3.8). My rigorous academic background has equipped me with a strong foundation in probability, statistical inference, and advanced quantitative modeling.
 
-I am deeply passionate about **data analytics, statistical modeling, product analysis, and business intelligence**. My drive comes from exploring raw data to uncover significant clues, translating them into actionable insights, and designing strategic solutions that solve real-world problems.
+Beyond the classroom, I am deeply passionate about bridging the gap between raw numbers and business strategy. I am extremely keen on **data analytics, product analysis, and business intelligence**. I thrive on exploring complex, messy datasets to uncover significant clues, identify hidden patterns, and extract the "why" behind the numbers. 
 
-Below is a curated portfolio of my data science, machine learning, and analytics work. Each project is presented with a clear problem statement, methodology, and reproducible source materials.
+Whether it is building predictive machine learning models, deploying interactive dashboards, or conducting rigorous statistical backtesting, my ultimate goal is to translate data into actionable insights. I love designing strategic, data-driven solutions that optimize business decision-making and solve real-world problems. 
+
+I am continuously expanding my technical toolkit across Python, SQL, Power BI, and modern development frameworks to build end-to-end analytical pipelines. I am actively seeking internship opportunities where I can contribute my analytical skills and drive impactful results.
 
 ---
 
