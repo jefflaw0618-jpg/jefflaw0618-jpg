@@ -1,8 +1,14 @@
-# Data Portfolio
+# Hi, I'm Jeff Law Sze Ming 👋
 
 ![Portfolio Badge](https://img.shields.io/badge/Portfolio-jefflaw0618--jpg-blue?logo=github) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-A curated portfolio of data science, statistical analysis, machine learning, and analytics work. This repository is the entry point to the projects below; each project is presented with a clear problem statement, method, and reproducible source materials.
+I am currently pursuing a **Bachelor of Science in Statistics** at the **University of Malaya** (Expected Graduation: July 2028 | CGPA: 3.8). 
+
+I am deeply passionate about **data analytics, statistical modeling, product analysis, and business intelligence**. My drive comes from exploring raw data to uncover significant clues, translating them into actionable insights, and designing strategic solutions that solve real-world problems.
+
+Below is a curated portfolio of my data science, machine learning, and analytics work. Each project is presented with a clear problem statement, methodology, and reproducible source materials.
+
+---
 
 ## Featured projects
 
