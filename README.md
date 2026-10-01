@@ -8,7 +8,7 @@ A curated portfolio of data science, statistical analysis, machine learning, and
 
 | Project | Focus | Demo | Repository |
 | :--- | :--- | :--- | :--- |
-| **Stock Market Prediction Dashboard** | Statistical modelling (HMM/PCA), real-time market data API integrations, and AI-powered quantitative analysis | [Live demo](https://stock-market-prediction-dashboard.onrender.com) | [Source](https://github.com/jefflaw0618-jpg/Stock-Market-Prediction-Dashboard) |
+| **Stock Market Prediction Dashboard** | Statistical modelling (Bayesian Logistic, HMM, PCA), real-time API integrations, and AI-powered quantitative analysis | [Live demo](https://stock-market-prediction-dashboard.onrender.com) | [Source](https://github.com/jefflaw0618-jpg/Stock-Market-Prediction-Dashboard) |
 | **DOSM Datathon 2026** | Data cleaning, validation, ML analytics, and interactive dashboarding for the DOSM 2026 Datathon | [Video Demo](https://github.com/jefflaw0618-jpg/DOSM-Datathon-2026/blob/master/TheOutliers_Datathon2026_Video.mp4) | [Source](https://github.com/jefflaw0618-jpg/DOSM-Datathon-2026) |
 
 ---
