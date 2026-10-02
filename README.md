@@ -18,7 +18,7 @@ I am continuously expanding my technical toolkit across Python, R, SQL, Power BI
 | :--- | :--- | :--- | :--- |
 | **Stock Market Prediction Dashboard** | Statistical modelling (Bayesian Logistic, HMM, PCA), real-time API integrations, and AI-powered quantitative analysis | [Live demo](https://stock-market-prediction-dashboard.onrender.com) | [Source](https://github.com/jefflaw0618-jpg/Stock-Market-Prediction-Dashboard) |
 | **DOSM Datathon 2026** | Data cleaning, validation, ML analytics, and interactive dashboarding for the DOSM 2026 Datathon | [Video Demo](https://github.com/jefflaw0618-jpg/DOSM-Datathon-2026/blob/master/TheOutliers_Datathon2026_Video.mp4) | [Source](https://github.com/jefflaw0618-jpg/DOSM-Datathon-2026) |
-| **SPX Express Autonomous Analytics** | Data engineering (Haversine/Regex), non-parametric hypothesis testing, predictive ML (XGBoost), and an autonomous Streamlit dashboard | [Live demo](#) | [Source](https://github.com/jefflaw0618-jpg/spx-express-autonomous-analytics) |
+| **SPX Express Autonomous Analytics** | Data engineering (Haversine/Regex), non-parametric hypothesis testing, predictive ML (XGBoost), and an autonomous Streamlit dashboard | [Live demo](https://spx-express-autonomous-analytics.onrender.com) | [Source](https://github.com/jefflaw0618-jpg/spx-express-autonomous-analytics) |
 
 ---
 
