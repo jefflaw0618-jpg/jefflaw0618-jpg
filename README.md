@@ -2,7 +2,7 @@
 
 ![Portfolio Badge](https://img.shields.io/badge/Portfolio-jefflaw0618--jpg-blue?logo=github) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-I am an analytical thinker, problem solver, and aspiring data professional currently pursuing a **Bachelor of Science in Statistics** at the **University of Malaya** (Expected Graduation: July 2028 | Current CGPA: 3.8). My rigorous academic background has equipped me with a strong foundation in probability, statistical inference, and advanced quantitative modeling.
+I am an analytical thinker, problem solver, and aspiring data professional currently pursuing a **Bachelor of Science in Statistics** at the **University of Malaya** (Expected Graduation: July 2028 | Current CGPA: 3.81). My rigorous academic background has equipped me with a strong foundation in probability, statistical inference, and advanced quantitative modeling.
 
 Beyond the classroom, I am deeply passionate about bridging the gap between raw numbers and business strategy. I am extremely keen on **data analytics, product analysis, and business intelligence**. I thrive on exploring complex, messy datasets to uncover significant clues, identify hidden patterns, and extract the "why" behind the numbers. 
 
